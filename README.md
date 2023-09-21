@@ -23,7 +23,7 @@
 ### Features
 * Swapping Usernames At Lightning Speed.
 * Multi-Account Support
-* Create configurations for easy use and templates.
+* Create Configurations For Easy Use And Templates.
 * Counter-Snipe Prevention. 
 
 ---------------------------------------
