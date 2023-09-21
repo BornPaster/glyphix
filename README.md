@@ -3,7 +3,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/BornPaster/glyphix">
-    <img src="[https://i.imgur.com/RzOiVFp.png](https://imgur.com/7qbe3Fd)" alt="Logo" >
+    <img src="https://i.imgur.com/7qbe3Fd.png" alt="Logo" >
   </a>
   
   <h2 align="center">Glyphix™</h3>
